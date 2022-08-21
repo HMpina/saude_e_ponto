@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saúde e Ponto!</string>
+    <string name="app_subtitle">Health Place to Work</string>
+    <string name="login_choose">Preencha abaixo para logar</string>
+    <string name="login_text">Seus Dados</string>
+    <string name="text_forgotPassword">Esqueçeu sua senha?</string>
+    <string name="text_LoginButton">Logar</string>
+    <string name="text_passwordHint">*****</string>
+    <string name="text_emailHint">usuarioa@email.com.br</string>
+    <string name="text_newsTitle">Novidades</string>
+    <string name="text_newsContext">Veja as novidades de Saúde e Ponto!</string>
+    <string name="text_helloUser">Olá, Usuário!</string>
+    <string name="text_checkBreakfast">Café da manhã</string>
+    <string name="text_checkPlanMyDay">Planeje a rotina do dia</string>
+    <string name="text_checkStartWork">Começar a trabalhar</string>
+    <string name="text_checkLunch">Almoçar</string>
+    <string name="text_checkExercise">Mexer o esqueleto!</string>
+    <string name="text_personalStatus">2564 passos até a meta diária</string>
+    <string name="text_teamStatus">Seu time precisa de atenção</string>
+    <string name="text_btnStatus">Ver agora</string>
+</resources>

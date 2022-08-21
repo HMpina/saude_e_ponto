@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Saúde e Ponto!</string>
+    <string name="app_subtitle">Health Place to Work</string>
+    <string name="login_choose">Fill bellow information to Log in</string>
+    <string name="login_text">Login Account</string>
+    <string name="text_forgotPassword">Forgot your password?</string>
+    <string name="text_LoginButton">Log in</string>
+    <string name="text_passwordHint">*****</string>
+    <string name="text_emailHint">username@email.com</string>
+    <string name="text_newsTitle">Latest news</string>
+    <string name="text_newsContext">See latest news about Saúde e Ponto!</string>
+    <string name="text_helloUser">Hello, Username!</string>
+    <string name="text_checkBreakfast">Breakfast</string>
+    <string name="text_checkPlanMyDay">Plan your day routine</string>
+    <string name="text_checkStartWork">Start work day</string>
+    <string name="text_checkLunch">Lunch time</string>
+    <string name="text_checkExercise">Move your body!</string>
+    <string name="text_personalStatus">2564 steps to daily goal</string>
+    <string name="text_teamStatus">Your team needs atention</string>
+    <string name="text_btnStatus">Check it</string>
+</resources>
