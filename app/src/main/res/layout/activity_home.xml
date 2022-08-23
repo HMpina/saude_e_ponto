@@ -15,7 +15,7 @@
         android:layout_marginStart="36dp"
         android:layout_marginTop="36dp"
         android:text="@string/text_helloUser"
-        android:textColor="@color/white"
+        android:textColor="@color/esg_dark"
         android:textSize="34sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -46,7 +46,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:showDividers="none">
 
             <ImageView
                 android:id="@+id/imageView1"
@@ -62,7 +63,8 @@
                 android:paddingStart="2dp"
                 android:paddingEnd="2dp"
                 android:text="@string/text_personalStatus"
-                android:textAlignment="center" />
+                android:textAlignment="center"
+                android:textColor="@color/esg_dark" />
 
             <Button
                 android:id="@+id/btn_personalStatus"
@@ -71,7 +73,9 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:text="@string/text_btnStatus"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                android:backgroundTint="@color/esg_darkGreen"
+                android:textColor="@color/white" />
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
@@ -101,11 +105,12 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/text_teamStatus"
+                android:layout_marginBottom="8dp"
                 android:paddingStart="2dp"
                 android:paddingEnd="2dp"
-                android:layout_marginBottom="8dp"
-                android:textAlignment="center" />
+                android:text="@string/text_teamStatus"
+                android:textAlignment="center"
+                android:textColor="@color/esg_dark" />
 
             <Button
                 android:id="@+id/btn_teamStatus"
@@ -114,7 +119,9 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:text="@string/text_btnStatus"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                android:backgroundTint="@color/esg_darkGreen"
+                android:textColor="@color/white" />
 
         </LinearLayout>
 
@@ -150,35 +157,35 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/text_checkBreakfast"
-            android:textColor="@color/black" />
+            android:textColor="@color/esg_darkGreen" />
 
         <CheckBox
             android:id="@+id/checkBox_planMyDay"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/text_checkPlanMyDay"
-            android:textColor="@color/black" />
+            android:textColor="@color/esg_dark" />
 
         <CheckBox
             android:id="@+id/checkBox_startWork"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/text_checkStartWork"
-            android:textColor="@color/black" />
+            android:textColor="@color/esg_dark" />
 
         <CheckBox
             android:id="@+id/checkBox_Lunch"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/text_checkLunch"
-            android:textColor="@color/black" />
+            android:textColor="@color/esg_dark" />
 
         <CheckBox
             android:id="@+id/checkBox_exercise"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/text_checkExercise"
-            android:textColor="@color/black" />
+            android:textColor="@color/esg_dark" />
 
 
     </LinearLayout>

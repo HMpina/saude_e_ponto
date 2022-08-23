@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="esg_dark">#FF182748</color>
+    <color name="esg_green">#FF53c3a7</color>
+    <color name="esg_green_transparent">#8553c3a7</color>
+    <color name="esg_lightWhite">#FFf9fafc</color>
+    <color name="esg_loginLightWhite">#FFf9fafc</color>
+    <color name="esg_orange">#FFf99335</color>
+    <color name="esg_darkGreen">#FF0c3b2e</color>
+
 </resources>

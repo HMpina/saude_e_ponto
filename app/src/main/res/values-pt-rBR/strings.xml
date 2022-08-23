@@ -19,4 +19,5 @@
     <string name="text_personalStatus">2564 passos até a meta diária</string>
     <string name="text_teamStatus">Seu time precisa de atenção</string>
     <string name="text_btnStatus">Ver agora</string>
+    <string name="text_loginStatus">Por favor, preencha as informações para logar</string>
 </resources>
