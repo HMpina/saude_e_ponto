@@ -3,10 +3,10 @@ package br.com.fiap.SaudeEPonto
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
+
 
 lateinit var buttonLogin: Button
 lateinit var textEmail : EditText
@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
     private fun login() {
 
         val msg: String = textEmail.text.toString()
@@ -38,4 +39,6 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
 }
+

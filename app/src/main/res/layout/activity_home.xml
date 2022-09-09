@@ -136,7 +136,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@android:drawable/ic_lock_idle_alarm"
         android:layout_marginEnd="24dp"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="70dp"
         />
 
     <LinearLayout
@@ -189,5 +189,6 @@
 
 
     </LinearLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

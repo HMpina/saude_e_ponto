@@ -19,4 +19,5 @@
     <string name="text_teamStatus">Your team needs atention</string>
     <string name="text_btnStatus">Check it</string>
     <string name="text_loginStatus">Please, fill all infor to log in</string>
+    <string name="menu_search_hint" />
 </resources>
